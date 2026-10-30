@@ -1,7 +1,5 @@
 <div align="center">
 
-# Vincent Kyalo
-> Animated GIFs are used for reliable animation on GitHub. Original SVG source artwork is also included in `assets/`.
 
 **Full-Stack Developer · Cybersecurity Enthusiast · Network Engineer · Linux & Systems Administrator**
 
