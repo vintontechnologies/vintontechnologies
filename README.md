@@ -36,8 +36,10 @@ I work across software development, networking, Linux systems and cybersecurity 
 
 ![Contact and collaboration](assets/contact-me.gif)
 
-- **GitHub:** [Vinnie-kyalo](https://github.com/Vinnie-kyalo)
-- **LinkedIn:** Add your LinkedIn profile URL.
-- **Email:** Add your preferred professional email address.
+## Contact Me
+
+- **GitHub:** [vintontechnologies](https://github.com/vintontechnologies)
+- **LinkedIn:** [Vincent Kyalo](https://www.linkedin.com/in/vincentkyalowambua/)
+- **Email:** [v.kyalo@outlook.com](mailto:v.kyalo@outlook.com)
 
 I'm interested in building useful software, strengthening security fundamentals, documenting lab work and collaborating on practical technology projects.
