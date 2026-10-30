@@ -1,10 +1,7 @@
 <div align="center">
-
-
-**Full-Stack Developer · Cybersecurity Enthusiast · Network Engineer · Linux & Systems Administrator**
-
 [![GitHub](https://img.shields.io/badge/GitHub-Vinnie--kyalo-0b1b2b?style=for-the-badge&logo=github)](https://github.com/Vinnie-kyalo)
 ![Location](https://img.shields.io/badge/Location-Kenya-0b1b2b?style=for-the-badge&logo=googlemaps&logoColor=39d9ff)
+
 
 </div>
 
