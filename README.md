@@ -1,6 +1,6 @@
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-Vinnie--kyalo-0b1b2b?style=for-the-badge&logo=github)](https://github.com/Vinnie-kyalo)
+[![GitHub](https://img.shields.io/badge/GitHub-Vinnie--kyalo-0b1b2b?style=for-the-badge&logo=github)](https://github.com/vintontechnologies)
 ![Location](https://img.shields.io/badge/Location-Kenya-0b1b2b?style=for-the-badge&logo=googlemaps&logoColor=39d9ff)
 
 
